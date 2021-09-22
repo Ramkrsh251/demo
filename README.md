@@ -1,3 +1,3 @@
 # demo
-THis is a git demo
-change1
+THis is a git demo lakshmi made the changes
+
